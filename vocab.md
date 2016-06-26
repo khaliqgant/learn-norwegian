@@ -14,4 +14,15 @@ særlig  especially
 oppleve experience
 
 ved     along, near to
-visst certainly
+visst   certainly
+
+rett        right
+dessverrre  unfortunately
+høyre       right (hand)
+venstre     left
+
+synes       think (personal impression)
+tror        think (but don't know, assume)
+
+mange       many (can count)
+mye         a lot
