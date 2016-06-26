@@ -26,3 +26,16 @@ tror        think (but don't know, assume)
 
 mange       many (can count)
 mye         a lot
+
+nydelig     beautiful
+særlig      especially
+morsommere  enjoyable
+
+dessuten    besides
+ennå        yet
+
+rett fram   straight
+til venstre to left
+til høyre   to right
+
+teppene     rugs
