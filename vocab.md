@@ -39,3 +39,8 @@ til venstre to left
 til høyre   to right
 
 teppene     rugs
+bilder      pictures
+veggen      wall
+fått        received
+nested      almost
+fort        fast
