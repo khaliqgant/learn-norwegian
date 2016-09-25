@@ -16,31 +16,41 @@ oppleve experience
 ved     along, near to
 visst   certainly
 
-rett        right
-dessverrre  unfortunately
-høyre       right (hand)
-venstre     left
+rett            right
+dessverrre      unfortunately
+høyre           right (hand)
+venstre         left
 
-synes       think (personal impression)
-tror        think (but don't know, assume)
+synes           think (personal impression)
+tror            think (but don't know, assume)
 
-mange       many (can count)
-mye         a lot
+mange           many (can count)
+mye             a lot
 
-nydelig     beautiful
-særlig      especially
-morsommere  enjoyable
+nydelig         beautiful
+særlig          especially
+morsommere      enjoyable
 
-dessuten    besides
-ennå        yet
+dessuten        besides
+ennå            yet
 
-rett fram   straight
-til venstre to left
-til høyre   to right
+rett fram       straight
+til venstre     to left
+til høyre       to right
 
-teppene     rugs
-bilder      pictures
-veggen      wall
-fått        received
-nested      almost
-fort        fast
+teppene         rugs
+bilder          pictures
+veggen          wall
+fått            received
+nested          almost
+fort            fast
+
+gjerne          happily, I'd love to
+gjennom         through
+sikkert         surely, certainly
+det er i order  that'll be fine
+senger          beds
+himmel          sky
+ikke sant       isn't it
+i morgen        tomorrow
+morgen          morning
